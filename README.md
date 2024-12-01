@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Robert 👋
 
-<!--
-**HolyRobs/HolyRobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Frontend Iniciante, apaixonado por tecnologia e sempre em busca de aprender mais! 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Linguagens**: HTML, CSS, JavaScript, 
+- **Ferramentas**: Visual Studio Code, Git, GitHub
+- **Interesses**: Desenvolvimento Web, React.js, Design Responsivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Meus Projetos
+- [Meu Portfólio](https://seu-portfolio.com)
+- [Site de Tarefas](https://github.com/robertdev/todolist)
+- [Loja Virtual Fictícia](https://github.com/robertdev/lojavirtual)
+
+## 📫 Contato
+- **E-mail**: robert@seuemail.com
+- **LinkedIn**: [linkedin.com/in/robertdev](https://linkedin.com/in/robertdev)
